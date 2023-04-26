@@ -5,19 +5,24 @@ While adding the students, the user only has to enter his/her name then the syst
 
 In order to run the project, you must have installed Python, on your PC. This is a simple Console Based system, specially written for the beginners.
 
+
 Features:
+
     Add Students
     List all students
     Search students
     Remove Students
 
+
 How To Run :
+
     first you need install python.
     download project.
     extract project.
     double click in student.py.
     Project is run
     Thanks ....
+    
 ![Screenshot-from-2021-10-26-09-44-17](https://user-images.githubusercontent.com/73168391/234685710-5fa37eb4-3e8d-43ec-bdd5-eebc6583ae81.png)
 ![Screenshot-studentmanagementpython](https://user-images.githubusercontent.com/73168391/234686058-cb31f7ce-5e91-43b0-8dac-be7307527417.png)
 
